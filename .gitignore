@@ -34,3 +34,7 @@ sugar.log
 cache.json
 assets/0.json
 assets/1.json
+
+
+#private key
+devnet.json
