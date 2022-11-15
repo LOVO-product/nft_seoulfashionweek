@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.17.5",
+    "bs58": "^5.0.0",
+    "csvtojson": "^2.0.10"
+  },
+  "scripts": {
+    "setup": "npx ts-node cmv3setup.ts",
+    "mint": "npx ts-node cmv3mint.ts",
+    "json": "npx ts-node cmv3makeJson.ts"
+  }
+}
