@@ -1,0 +1,20 @@
+{
+  "name": "Test NFT",
+  "symbol": "TNFT",
+  "description": "Enjoy Seoul Fashion Week with LOVO",
+  "image": "https://cdn.shopify.com/s/files/1/0210/2968/3222/files/image17.jpg",
+  "animation_url": "http://techslides.com/demos/sample-videos/small.mp4",
+  "attributes": [{ "trait_type": "Number", "value": "\"0\"" }],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.shopify.com/s/files/1/0210/2968/3222/files/image17.jpg",
+        "type": "image/jpg"
+      },
+      {
+        "uri": "http://techslides.com/demos/sample-videos/small.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  }
+}
